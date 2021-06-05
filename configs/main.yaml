@@ -1,0 +1,5 @@
+model: 'U20'
+seed: 43
+tr: 'bert-large-cased'
+preweights: '/mnt/c/Users/obarn/Projects/F-MT126-1/model/configs/uniter-large.pt'
+weights: '/mnt/c/Users/obarn/Projects/F-MT126-1/model/configs/U20.pth'
