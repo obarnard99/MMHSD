@@ -1,2 +1,2 @@
 # MMHSD
-Multimodal hate speech detection modelling
+Multimodal hate speech detection modelling for Chrome extension.
